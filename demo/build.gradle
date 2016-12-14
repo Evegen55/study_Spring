@@ -32,6 +32,5 @@ repositories {
 
 dependencies {
 	compile('org.liquibase:liquibase-core')
-	compile('org.springframework.boot:spring-boot-starter-social-facebook')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }

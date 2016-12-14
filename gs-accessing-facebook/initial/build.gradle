@@ -28,5 +28,6 @@ targetCompatibility = 1.8
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-thymeleaf")
     compile("org.springframework.social:spring-social-facebook")
+    testCompile("org.springframework.boot:spring-boot-starter-test")
 }
 
